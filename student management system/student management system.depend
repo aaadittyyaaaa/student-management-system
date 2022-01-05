@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641317233 source:d:\codeblocks\student management system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

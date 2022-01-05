@@ -1,0 +1,4 @@
+Abhishek|20cs21|C2
+aditya|20cs08|C2
+chetna|20cs31|C1
+amit|20cs42|F
